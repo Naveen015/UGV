@@ -1,0 +1,8 @@
+prefix=/home/naveen/catkin_ws/install
+
+Name: ugv
+Description: Description of ugv
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/naveen/catkin_ws/install/lib 
+Requires: 
